@@ -28,3 +28,4 @@ o	Тело запроса (JSON): { "name": "New Student Name" }
 4.	Удаление студента по ID:
 o	Метод: DELETE
 o	URL: http://localhost:4000/students/1 (замените 1 на нужный ID)
+
