@@ -1,3 +1,5 @@
+chrome-extension://aejoelaoggembcahagimdiliamlcdmfm/index.html
+
 Группы (/groups):
 1.	Получение всех групп:
 o	Метод: GET
